@@ -2,13 +2,15 @@
 # Home page of E-commerce website
 This is a simple homepage for an e-commerce website built using Nuxt.js. The UI showcases a responsive product listing section with modern Tailwind CSS styling. Products are statically listed in a grid layout, making it ideal for prototyping or portfolio demonstrations.
 -----
+
+```bash
 Features
 • Display featured products with image, name, price, and description
 • Add to Cart button (non-functional placeholder)
 • Responsive grid layout
 • Tailwind CSS for clean UI
 • Component-based Vue 3 + Nuxt 3 architecture
-
+```
 
 # Nuxt Minimal Starter
 
