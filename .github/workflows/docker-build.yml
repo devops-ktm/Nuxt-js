@@ -9,4 +9,4 @@ jobs:
   call-central-action:
     uses: devops-ktm/centralized-docker-action/.github/workflows/docker-build.yml@main
     with:
-      image_name: nuxt-app
+      image_name: nuxt-js
